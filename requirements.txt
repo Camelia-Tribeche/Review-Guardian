@@ -8,7 +8,7 @@ xgboost
 joblib
 torch
 transformers
-datasets
+datasets>=4.5.0
 autogluon.multimodal
 rouge_score
 ipython

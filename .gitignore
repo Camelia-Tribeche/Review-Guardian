@@ -37,3 +37,4 @@ results/figures/*.pdf
 
 # Generated metrics
 results/metrics/*.csv
+models/distilbert_fake_review/model.safetensors
