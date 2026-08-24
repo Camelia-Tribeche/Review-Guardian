@@ -1,0 +1,14 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+scipy
+xgboost
+joblib
+torch
+transformers
+datasets>=4.5.0
+autogluon.multimodal
+rouge_score
+ipython
